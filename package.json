@@ -1,0 +1,34 @@
+{
+  "name": "rick-and-morty-character-search",
+  "version": "1.0.0",
+  "description": "Search characters\r Navigate through pages using the navbar\r Filter through Status, Gender and Species\r Easy navigation to pages through the  pagination at the foot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwanusu/Rick-and-Morty-Character-Search.git"
+  },
+  "keywords": [
+    "kayjay"
+  ],
+  "author": "Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kwanusu/Rick-and-Morty-Character-Search/issues"
+  },
+  "homepage": "https://github.com/Kwanusu/Rick-and-Morty-Character-Search#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.3"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.24.1"
+  }
+}

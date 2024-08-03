@@ -1,5 +1,3 @@
-
-
 import "bootstrap/dist/css/bootstrap.min.css";
 import React, { useState, useEffect } from "react";
  import Search from "./components/Search/Search";
